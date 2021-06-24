@@ -2,7 +2,8 @@ package com.qa.helloworld;
 
 public class Results3 {
 	
-	method2();
+	method2() {
+	
     if (((physics * 100) / 150) > 60) {
         System.out.println("You're Physics Grade is: " + physics + ". You're Physics Percentage is: "
                 + ((physics * 100) / 150) + "%");

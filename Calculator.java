@@ -3,7 +3,10 @@ package com.qa.helloworld;
 public class Calculator {
 	
 	public static void main(String[] args) {
-		
+		addingNumbers();
+		multiplyNumbers();
+		subtrackNumbers();
+		divideNumbers();
 	}
 	
 		public static void addingNumbers() {
