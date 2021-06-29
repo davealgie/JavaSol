@@ -1,4 +1,4 @@
-package com.qa.helloworld;
+package com.qa.topics;
 
 public class BlackJack {
 	public static void main(String[] args) {
@@ -21,14 +21,17 @@ public class BlackJack {
 		int unique = 0;
 		if (a != b && a != c) {
 			unique += a;
+
 		}
 		
 		if (b != a && b != c) {
 			unique += b;
+
 		}
 		
 		if (c != a && c != b) {
 			unique += c;
+
 		}
 		return unique;
 	}

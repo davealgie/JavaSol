@@ -1,8 +1,8 @@
-package com.qa.helloworld;
+package com.qa.topics;
 
 public class ArrayExercise {
-	public static void main(String[] args) {
-		
+
+		public static void ArrayExercise1() {
 		int [] basicArray;
 		basicArray = new int [10];
 
@@ -14,8 +14,8 @@ public class ArrayExercise {
 			basicArray[i] = i;
 			int newArray = basicArray[i] * 10;
 			System.out.println(newArray);
-	}
-	}
+			}
+		}
 }
 		
 	

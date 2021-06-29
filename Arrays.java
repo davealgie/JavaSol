@@ -1,4 +1,4 @@
-package com.qa.helloworld;
+package com.qa.topics;
 
 public class Arrays {
 	public static void main(String[] args) {

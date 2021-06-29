@@ -1,8 +1,8 @@
-package com.qa.helloworld;
+package com.qa.topics;
 
 public class Flowcharts {
 	public static void main(String[] args) {
-			method2(499);
+			System.out.println(method1(8000, 2000, false));
 	}
 
 	public static String method1(int num1, int num2, boolean bool1) {
